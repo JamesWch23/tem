@@ -10,7 +10,8 @@
 │   ├── conanfile.txt       - conan packages requirements
 │   └── deploy.sh           - deploy commands
 │
-├── model                   - The content in this directory is merged together with other models specifiec as dependencies in the conanfile.py.
+├── model                   - The content in this directory is merged together with other models
+|                              specifiec as dependencies in the conanfile.py.
 │   └── CHIPPS_EC1_Deployment_dummy_swc_proc_Log.arxml.arxml                    - ARXML file
 │   
 ├── src                     - source codes
